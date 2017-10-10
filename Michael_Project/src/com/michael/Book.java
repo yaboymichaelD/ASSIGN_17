@@ -55,7 +55,7 @@ public class Book {
     }
 
     public String toString(){
-        return "Book Title: " + title + "\nBook Price: " + price + "\nBooks ISBN: " + ISBN + "\nPages: " + numofpages;
+        return "Book Title: " + title + "\nBook Price: " + price + "\nBooks ISBN: " + ISBN + "\nPages: " + numofpages + "\n\n";
     }
 
 
